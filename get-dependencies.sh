@@ -9,6 +9,7 @@ pacman -Syu --noconfirm \
 	base-devel       \
 	curl             \
 	git              \
+	gtk3             \
 	libxcb           \
 	libxcursor       \
 	libxi            \
